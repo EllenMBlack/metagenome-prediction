@@ -1,0 +1,330 @@
+# Constructed from biom file
+#OTU ID	Biofilm1::m54149	Biofilm2::m54149	KEGG_Pathways
+1,1,1-Trichloro-2,2-bis(4-chlorophenyl)ethane (DDT) degradation	66.0	46.0	Metabolism; Xenobiotics Biodegradation and Metabolism; 1,1,1-Trichloro-2,2-bis(4-chlorophenyl)ethane (DDT) degradation
+ABC transporters	79665.0	83595.0	Environmental Information Processing; Membrane Transport; ABC transporters
+Adherens junction	0.0	0.0	Cellular Processes; Cell Communication; Adherens junction
+Adipocytokine signaling pathway	2252.0	2254.0	Organismal Systems; Endocrine System; Adipocytokine signaling pathway
+African trypanosomiasis	461.0	470.0	Human Diseases; Infectious Diseases; African trypanosomiasis
+Alanine, aspartate and glutamate metabolism	21800.0	22498.0	Metabolism; Amino Acid Metabolism; Alanine, aspartate and glutamate metabolism
+Aldosterone-regulated sodium reabsorption	0.0	0.0	Organismal Systems; Excretory System; Aldosterone-regulated sodium reabsorption
+Alzheimer's disease	2884.0	3032.0	Human Diseases; Neurodegenerative Diseases; Alzheimer's disease
+Amino acid metabolism	6116.0	6038.0	Unclassified; Metabolism; Amino acid metabolism
+Amino acid related enzymes	30416.0	31217.0	Metabolism; Amino Acid Metabolism; Amino acid related enzymes
+Amino sugar and nucleotide sugar metabolism	21317.0	22296.0	Metabolism; Carbohydrate Metabolism; Amino sugar and nucleotide sugar metabolism
+Aminoacyl-tRNA biosynthesis	23104.0	23880.0	Genetic Information Processing; Translation; Aminoacyl-tRNA biosynthesis
+Aminobenzoate degradation	11517.0	12226.0	Metabolism; Xenobiotics Biodegradation and Metabolism; Aminobenzoate degradation
+Amoebiasis	602.0	598.0	Human Diseases; Infectious Diseases; Amoebiasis
+Amyotrophic lateral sclerosis (ALS)	1211.0	1363.0	Human Diseases; Neurodegenerative Diseases; Amyotrophic lateral sclerosis (ALS)
+Antigen processing and presentation	618.0	656.0	Organismal Systems; Immune System; Antigen processing and presentation
+Apoptosis	535.0	548.0	Cellular Processes; Cell Growth and Death; Apoptosis
+Arachidonic acid metabolism	1958.0	2147.0	Metabolism; Lipid Metabolism; Arachidonic acid metabolism
+Arginine and proline metabolism	29514.0	30445.0	Metabolism; Amino Acid Metabolism; Arginine and proline metabolism
+Arrhythmogenic right ventricular cardiomyopathy (ARVC)	0.0	0.0	Human Diseases; Cardiovascular Diseases; Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+Ascorbate and aldarate metabolism	3995.0	4429.0	Metabolism; Carbohydrate Metabolism; Ascorbate and aldarate metabolism
+Atrazine degradation	1416.0	1375.0	Metabolism; Xenobiotics Biodegradation and Metabolism; Atrazine degradation
+Bacterial chemotaxis	16473.0	17121.0	Cellular Processes; Cell Motility; Bacterial chemotaxis
+Bacterial invasion of epithelial cells	35.0	37.0	Human Diseases; Infectious Diseases; Bacterial invasion of epithelial cells
+Bacterial motility proteins	43833.0	47321.0	Cellular Processes; Cell Motility; Bacterial motility proteins
+Bacterial secretion system	21948.0	22647.0	Environmental Information Processing; Membrane Transport; Bacterial secretion system
+Bacterial toxins	1944.0	2175.0	Environmental Information Processing; Signaling Molecules and Interaction; Bacterial toxins
+Basal transcription factors	31.0	50.0	Genetic Information Processing; Transcription; Basal transcription factors
+Base excision repair	9845.0	10399.0	Genetic Information Processing; Replication and Repair; Base excision repair
+Benzoate degradation	14665.0	15426.0	Metabolism; Xenobiotics Biodegradation and Metabolism; Benzoate degradation
+Betalain biosynthesis	144.0	143.0	Metabolism; Biosynthesis of Other Secondary Metabolites; Betalain biosynthesis
+Bile secretion	30.0	51.0	Organismal Systems; Digestive System; Bile secretion
+Biosynthesis and biodegradation of secondary metabolites	1669.0	1645.0	Unclassified; Metabolism; Biosynthesis and biodegradation of secondary metabolites
+Biosynthesis of 12-, 14- and 16-membered macrolides	0.0	0.0	Metabolism; Metabolism of Terpenoids and Polyketides; Biosynthesis of 12-, 14- and 16-membered macrolides
+Biosynthesis of ansamycins	1665.0	1635.0	Metabolism; Metabolism of Terpenoids and Polyketides; Biosynthesis of ansamycins
+Biosynthesis of siderophore group nonribosomal peptides	1085.0	1227.0	Metabolism; Metabolism of Terpenoids and Polyketides; Biosynthesis of siderophore group nonribosomal peptides
+Biosynthesis of type II polyketide backbone	0.0	0.0	Metabolism; Metabolism of Terpenoids and Polyketides; Biosynthesis of type II polyketide backbone
+Biosynthesis of type II polyketide products	12.0	24.0	Metabolism; Metabolism of Terpenoids and Polyketides; Biosynthesis of type II polyketide products
+Biosynthesis of unsaturated fatty acids	7088.0	7721.0	Metabolism; Lipid Metabolism; Biosynthesis of unsaturated fatty acids
+Biosynthesis of vancomycin group antibiotics	1424.0	1554.0	Metabolism; Metabolism of Terpenoids and Polyketides; Biosynthesis of vancomycin group antibiotics
+Biotin metabolism	3644.0	3654.0	Metabolism; Metabolism of Cofactors and Vitamins; Biotin metabolism
+Bisphenol degradation	2543.0	2609.0	Metabolism; Xenobiotics Biodegradation and Metabolism; Bisphenol degradation
+Bladder cancer	167.0	241.0	Human Diseases; Cancers; Bladder cancer
+Butanoate metabolism	26741.0	27473.0	Metabolism; Carbohydrate Metabolism; Butanoate metabolism
+Butirosin and neomycin biosynthesis	1056.0	1151.0	Metabolism; Biosynthesis of Other Secondary Metabolites; Butirosin and neomycin biosynthesis
+C5-Branched dibasic acid metabolism	7203.0	7480.0	Metabolism; Carbohydrate Metabolism; C5-Branched dibasic acid metabolism
+CAM ligands	0.0	0.0	Environmental Information Processing; Signaling Molecules and Interaction; CAM ligands
+Caffeine metabolism	69.0	79.0	Metabolism; Biosynthesis of Other Secondary Metabolites; Caffeine metabolism
+Calcium signaling pathway	0.0	2.0	Environmental Information Processing; Signal Transduction; Calcium signaling pathway
+Caprolactam degradation	6232.0	6716.0	Metabolism; Xenobiotics Biodegradation and Metabolism; Caprolactam degradation
+Carbohydrate digestion and absorption	79.0	59.0	Organismal Systems; Digestive System; Carbohydrate digestion and absorption
+Carbohydrate metabolism	2164.0	2276.0	Unclassified; Metabolism; Carbohydrate metabolism
+Carbon fixation in photosynthetic organisms	12582.0	12516.0	Metabolism; Energy Metabolism; Carbon fixation in photosynthetic organisms
+Carbon fixation pathways in prokaryotes	29037.0	29403.0	Metabolism; Energy Metabolism; Carbon fixation pathways in prokaryotes
+Cardiac muscle contraction	1386.0	1496.0	Organismal Systems; Circulatory System; Cardiac muscle contraction
+Carotenoid biosynthesis	1697.0	1766.0	Metabolism; Metabolism of Terpenoids and Polyketides; Carotenoid biosynthesis
+Cell cycle	0.0	0.0	Cellular Processes; Cell Growth and Death; Cell cycle
+Cell cycle - Caulobacter	13177.0	13154.0	Cellular Processes; Cell Growth and Death; Cell cycle - Caulobacter
+Cell cycle - yeast	0.0	0.0	Cellular Processes; Cell Growth and Death; Cell cycle - yeast
+Cell division	2223.0	2265.0	Unclassified; Cellular Processes and Signaling; Cell division
+Cell motility and secretion	7531.0	7692.0	Unclassified; Cellular Processes and Signaling; Cell motility and secretion
+Cellular antigens	2327.0	2501.0	Environmental Information Processing; Signaling Molecules and Interaction; Cellular antigens
+Chagas disease (American trypanosomiasis)	432.0	507.0	Human Diseases; Infectious Diseases; Chagas disease (American trypanosomiasis)
+Chaperones and folding catalysts	24064.0	25011.0	Genetic Information Processing; Folding, Sorting and Degradation; Chaperones and folding catalysts
+Chloroalkane and chloroalkene degradation	7310.0	7529.0	Metabolism; Xenobiotics Biodegradation and Metabolism; Chloroalkane and chloroalkene degradation
+Chlorocyclohexane and chlorobenzene degradation	2742.0	2900.0	Metabolism; Xenobiotics Biodegradation and Metabolism; Chlorocyclohexane and chlorobenzene degradation
+Cholinergic synapse	0.0	0.0	Organismal Systems; Nervous System; Cholinergic synapse
+Chromosome	31228.0	31963.0	Genetic Information Processing; Replication and Repair; Chromosome
+Chronic myeloid leukemia	6.0	12.0	Human Diseases; Cancers; Chronic myeloid leukemia
+Circadian rhythm - plant	216.0	201.0	Organismal Systems; Environmental Adaptation; Circadian rhythm - plant
+Citrate cycle (TCA cycle)	20281.0	21022.0	Metabolism; Carbohydrate Metabolism; Citrate cycle (TCA cycle)
+Clavulanic acid biosynthesis	0.0	0.0	Metabolism; Biosynthesis of Other Secondary Metabolites; Clavulanic acid biosynthesis
+Colorectal cancer	470.0	485.0	Human Diseases; Cancers; Colorectal cancer
+Complement and coagulation cascades	0.0	0.0	Organismal Systems; Immune System; Complement and coagulation cascades
+Cyanoamino acid metabolism	5161.0	5313.0	Metabolism; Metabolism of Other Amino Acids; Cyanoamino acid metabolism
+Cysteine and methionine metabolism	19927.0	20791.0	Metabolism; Amino Acid Metabolism; Cysteine and methionine metabolism
+Cytochrome P450	0.0	1.0	Metabolism; Enzyme Families; Cytochrome P450
+Cytokine receptors	0.0	0.0	Environmental Information Processing; Signaling Molecules and Interaction; Cytokine receptors
+Cytokine-cytokine receptor interaction	0.0	0.0	Environmental Information Processing; Signaling Molecules and Interaction; Cytokine-cytokine receptor interaction
+Cytoskeleton proteins	5661.0	5664.0	Cellular Processes; Cell Motility; Cytoskeleton proteins
+Cytosolic DNA-sensing pathway	0.0	0.0	Organismal Systems; Immune System; Cytosolic DNA-sensing pathway
+D-Alanine metabolism	2143.0	2114.0	Metabolism; Metabolism of Other Amino Acids; D-Alanine metabolism
+D-Arginine and D-ornithine metabolism	307.0	282.0	Metabolism; Metabolism of Other Amino Acids; D-Arginine and D-ornithine metabolism
+D-Glutamine and D-glutamate metabolism	2974.0	2911.0	Metabolism; Metabolism of Other Amino Acids; D-Glutamine and D-glutamate metabolism
+DNA repair and recombination proteins	56119.0	58378.0	Genetic Information Processing; Replication and Repair; DNA repair and recombination proteins
+DNA replication	11981.0	12128.0	Genetic Information Processing; Replication and Repair; DNA replication
+DNA replication proteins	20232.0	20714.0	Genetic Information Processing; Replication and Repair; DNA replication proteins
+Dilated cardiomyopathy (DCM)	0.0	0.0	Human Diseases; Cardiovascular Diseases; Dilated cardiomyopathy (DCM)
+Dioxin degradation	1630.0	1575.0	Metabolism; Xenobiotics Biodegradation and Metabolism; Dioxin degradation
+Drug metabolism - cytochrome P450	5764.0	6222.0	Metabolism; Xenobiotics Biodegradation and Metabolism; Drug metabolism - cytochrome P450
+Drug metabolism - other enzymes	4701.0	4991.0	Metabolism; Xenobiotics Biodegradation and Metabolism; Drug metabolism - other enzymes
+ECM-receptor interaction	0.0	0.0	Environmental Information Processing; Signaling Molecules and Interaction; ECM-receptor interaction
+Electron transfer carriers	659.0	641.0	Unclassified; Cellular Processes and Signaling; Electron transfer carriers
+Endocrine and other factor-regulated calcium reabsorption	0.0	0.0	Organismal Systems; Excretory System; Endocrine and other factor-regulated calcium reabsorption
+Endocytosis	2.0	1.0	Cellular Processes; Transport and Catabolism; Endocytosis
+Energy metabolism	22930.0	22602.0	Unclassified; Metabolism; Energy metabolism
+Epithelial cell signaling in Helicobacter pylori infection	1021.0	915.0	Human Diseases; Infectious Diseases; Epithelial cell signaling in Helicobacter pylori infection
+ErbB signaling pathway	0.0	0.0	Environmental Information Processing; Signal Transduction; ErbB signaling pathway
+Ether lipid metabolism	416.0	471.0	Metabolism; Lipid Metabolism; Ether lipid metabolism
+Ethylbenzene degradation	1934.0	2028.0	Metabolism; Xenobiotics Biodegradation and Metabolism; Ethylbenzene degradation
+Fat digestion and absorption	0.0	0.0	Organismal Systems; Digestive System; Fat digestion and absorption
+Fatty acid biosynthesis	14186.0	15052.0	Metabolism; Lipid Metabolism; Fatty acid biosynthesis
+Fatty acid elongation in mitochondria	27.0	30.0	Metabolism; Lipid Metabolism; Fatty acid elongation in mitochondria
+Fatty acid metabolism	18907.0	20084.0	Metabolism; Lipid Metabolism; Fatty acid metabolism
+Fc epsilon RI signaling pathway	0.0	0.0	Organismal Systems; Immune System; Fc epsilon RI signaling pathway
+Fc gamma R-mediated phagocytosis	2.0	1.0	Organismal Systems; Immune System; Fc gamma R-mediated phagocytosis
+Flagellar assembly	17392.0	19009.0	Cellular Processes; Cell Motility; Flagellar assembly
+Flavone and flavonol biosynthesis	110.0	114.0	Metabolism; Biosynthesis of Other Secondary Metabolites; Flavone and flavonol biosynthesis
+Flavonoid biosynthesis	637.0	596.0	Metabolism; Biosynthesis of Other Secondary Metabolites; Flavonoid biosynthesis
+Fluorobenzoate degradation	1390.0	1478.0	Metabolism; Xenobiotics Biodegradation and Metabolism; Fluorobenzoate degradation
+Focal adhesion	0.0	0.0	Cellular Processes; Cell Communication; Focal adhesion
+Folate biosynthesis	11234.0	11634.0	Metabolism; Metabolism of Cofactors and Vitamins; Folate biosynthesis
+Fructose and mannose metabolism	12532.0	12784.0	Metabolism; Carbohydrate Metabolism; Fructose and mannose metabolism
+Function unknown	40111.0	41551.0	Unclassified; Poorly Characterized; Function unknown
+G protein-coupled receptors	0.0	0.0	Environmental Information Processing; Signaling Molecules and Interaction; G protein-coupled receptors
+GTP-binding proteins	0.0	0.0	Environmental Information Processing; Signaling Molecules and Interaction; GTP-binding proteins
+Galactose metabolism	7378.0	8036.0	Metabolism; Carbohydrate Metabolism; Galactose metabolism
+Gastric acid secretion	0.0	0.0	Organismal Systems; Digestive System; Gastric acid secretion
+General function prediction only	86485.0	89081.0	Unclassified; Poorly Characterized; General function prediction only
+Geraniol degradation	9506.0	9970.0	Metabolism; Metabolism of Terpenoids and Polyketides; Geraniol degradation
+Germination	49.0	18.0	Unclassified; Cellular Processes and Signaling; Germination
+Glioma	0.0	0.0	Human Diseases; Cancers; Glioma
+Glutamatergic synapse	1960.0	1895.0	Organismal Systems; Nervous System; Glutamatergic synapse
+Glutathione metabolism	12392.0	12994.0	Metabolism; Metabolism of Other Amino Acids; Glutathione metabolism
+Glycan bindng proteins	0.0	1.0	Environmental Information Processing; Signaling Molecules and Interaction; Glycan bindng proteins
+Glycan biosynthesis and metabolism	1805.0	1808.0	Unclassified; Metabolism; Glycan biosynthesis and metabolism
+Glycerolipid metabolism	7264.0	7778.0	Metabolism; Lipid Metabolism; Glycerolipid metabolism
+Glycerophospholipid metabolism	12652.0	13128.0	Metabolism; Lipid Metabolism; Glycerophospholipid metabolism
+Glycine, serine and threonine metabolism	23634.0	24804.0	Metabolism; Amino Acid Metabolism; Glycine, serine and threonine metabolism
+Glycolysis / Gluconeogenesis	23575.0	24359.0	Metabolism; Carbohydrate Metabolism; Glycolysis / Gluconeogenesis
+Glycosaminoglycan biosynthesis - chondroitin sulfate	0.0	0.0	Metabolism; Glycan Biosynthesis and Metabolism; Glycosaminoglycan biosynthesis - chondroitin sulfate
+Glycosaminoglycan degradation	995.0	1127.0	Metabolism; Glycan Biosynthesis and Metabolism; Glycosaminoglycan degradation
+Glycosphingolipid biosynthesis - ganglio series	547.0	527.0	Metabolism; Glycan Biosynthesis and Metabolism; Glycosphingolipid biosynthesis - ganglio series
+Glycosphingolipid biosynthesis - globo series	925.0	971.0	Metabolism; Glycan Biosynthesis and Metabolism; Glycosphingolipid biosynthesis - globo series
+Glycosphingolipid biosynthesis - lacto and neolacto series	0.0	0.0	Metabolism; Glycan Biosynthesis and Metabolism; Glycosphingolipid biosynthesis - lacto and neolacto series
+Glycosylphosphatidylinositol(GPI)-anchor biosynthesis	0.0	0.0	Metabolism; Glycan Biosynthesis and Metabolism; Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+Glycosyltransferases	8892.0	9278.0	Metabolism; Glycan Biosynthesis and Metabolism; Glycosyltransferases
+Glyoxylate and dicarboxylate metabolism	21299.0	21435.0	Metabolism; Carbohydrate Metabolism; Glyoxylate and dicarboxylate metabolism
+GnRH signaling pathway	2.0	1.0	Organismal Systems; Endocrine System; GnRH signaling pathway
+Hedgehog signaling pathway	0.0	0.0	Environmental Information Processing; Signal Transduction; Hedgehog signaling pathway
+Hematopoietic cell lineage	0.0	0.0	Organismal Systems; Immune System; Hematopoietic cell lineage
+Hepatitis C	0.0	0.0	Human Diseases; Infectious Diseases; Hepatitis C
+Histidine metabolism	14114.0	14875.0	Metabolism; Amino Acid Metabolism; Histidine metabolism
+Homologous recombination	16297.0	16606.0	Genetic Information Processing; Replication and Repair; Homologous recombination
+Huntington's disease	3181.0	3425.0	Human Diseases; Neurodegenerative Diseases; Huntington's disease
+Hypertrophic cardiomyopathy (HCM)	94.0	135.0	Human Diseases; Cardiovascular Diseases; Hypertrophic cardiomyopathy (HCM)
+Indole alkaloid biosynthesis	144.0	143.0	Metabolism; Biosynthesis of Other Secondary Metabolites; Indole alkaloid biosynthesis
+Influenza A	470.0	485.0	Human Diseases; Infectious Diseases; Influenza A
+Inorganic ion transport and metabolism	9791.0	10135.0	Unclassified; Cellular Processes and Signaling; Inorganic ion transport and metabolism
+Inositol phosphate metabolism	4220.0	4752.0	Metabolism; Carbohydrate Metabolism; Inositol phosphate metabolism
+Insulin signaling pathway	1643.0	1554.0	Organismal Systems; Endocrine System; Insulin signaling pathway
+Ion channels	338.0	373.0	Environmental Information Processing; Signaling Molecules and Interaction; Ion channels
+Isoflavonoid biosynthesis	6.0	2.0	Metabolism; Biosynthesis of Other Secondary Metabolites; Isoflavonoid biosynthesis
+Isoquinoline alkaloid biosynthesis	1788.0	1843.0	Metabolism; Biosynthesis of Other Secondary Metabolites; Isoquinoline alkaloid biosynthesis
+Leishmaniasis	0.0	0.0	Human Diseases; Infectious Diseases; Leishmaniasis
+Leukocyte transendothelial migration	0.0	0.0	Organismal Systems; Immune System; Leukocyte transendothelial migration
+Limonene and pinene degradation	9094.0	9645.0	Metabolism; Metabolism of Terpenoids and Polyketides; Limonene and pinene degradation
+Linoleic acid metabolism	1507.0	1587.0	Metabolism; Lipid Metabolism; Linoleic acid metabolism
+Lipid biosynthesis proteins	20553.0	21490.0	Metabolism; Lipid Metabolism; Lipid biosynthesis proteins
+Lipid metabolism	3170.0	3045.0	Unclassified; Metabolism; Lipid metabolism
+Lipoic acid metabolism	1725.0	1830.0	Metabolism; Metabolism of Cofactors and Vitamins; Lipoic acid metabolism
+Lipopolysaccharide biosynthesis	10049.0	10725.0	Metabolism; Glycan Biosynthesis and Metabolism; Lipopolysaccharide biosynthesis
+Lipopolysaccharide biosynthesis proteins	12514.0	13331.0	Metabolism; Glycan Biosynthesis and Metabolism; Lipopolysaccharide biosynthesis proteins
+Long-term depression	0.0	0.0	Organismal Systems; Nervous System; Long-term depression
+Long-term potentiation	0.0	0.0	Organismal Systems; Nervous System; Long-term potentiation
+Lysine biosynthesis	14038.0	14674.0	Metabolism; Amino Acid Metabolism; Lysine biosynthesis
+Lysine degradation	12847.0	13485.0	Metabolism; Amino Acid Metabolism; Lysine degradation
+Lysosome	1736.0	1999.0	Cellular Processes; Transport and Catabolism; Lysosome
+MAPK signaling pathway	0.0	0.0	Environmental Information Processing; Signal Transduction; MAPK signaling pathway
+MAPK signaling pathway - yeast	1282.0	1143.0	Environmental Information Processing; Signal Transduction; MAPK signaling pathway - yeast
+Measles	0.0	0.0	Human Diseases; Infectious Diseases; Measles
+Meiosis - yeast	1081.0	1180.0	Cellular Processes; Cell Growth and Death; Meiosis - yeast
+Melanogenesis	0.0	0.0	Organismal Systems; Endocrine System; Melanogenesis
+Membrane and intracellular structural molecules	19914.0	20519.0	Unclassified; Cellular Processes and Signaling; Membrane and intracellular structural molecules
+Metabolism of cofactors and vitamins	4946.0	5121.0	Unclassified; Metabolism; Metabolism of cofactors and vitamins
+Metabolism of xenobiotics by cytochrome P450	5405.0	5818.0	Metabolism; Xenobiotics Biodegradation and Metabolism; Metabolism of xenobiotics by cytochrome P450
+Methane metabolism	25207.0	24365.0	Metabolism; Energy Metabolism; Methane metabolism
+Mineral absorption	526.0	564.0	Organismal Systems; Digestive System; Mineral absorption
+Mismatch repair	14803.0	15178.0	Genetic Information Processing; Replication and Repair; Mismatch repair
+N-Glycan biosynthesis	829.0	979.0	Metabolism; Glycan Biosynthesis and Metabolism; N-Glycan biosynthesis
+NOD-like receptor signaling pathway	618.0	656.0	Organismal Systems; Immune System; NOD-like receptor signaling pathway
+Naphthalene degradation	6035.0	6508.0	Metabolism; Xenobiotics Biodegradation and Metabolism; Naphthalene degradation
+Neuroactive ligand-receptor interaction	0.0	0.0	Environmental Information Processing; Signaling Molecules and Interaction; Neuroactive ligand-receptor interaction
+Neurotrophin signaling pathway	0.0	0.0	Organismal Systems; Nervous System; Neurotrophin signaling pathway
+Nicotinate and nicotinamide metabolism	9954.0	10618.0	Metabolism; Metabolism of Cofactors and Vitamins; Nicotinate and nicotinamide metabolism
+Nitrogen metabolism	20312.0	20202.0	Metabolism; Energy Metabolism; Nitrogen metabolism
+Nitrotoluene degradation	2839.0	2390.0	Metabolism; Xenobiotics Biodegradation and Metabolism; Nitrotoluene degradation
+Non-homologous end-joining	1393.0	1434.0	Genetic Information Processing; Replication and Repair; Non-homologous end-joining
+Notch signaling pathway	6.0	12.0	Environmental Information Processing; Signal Transduction; Notch signaling pathway
+Novobiocin biosynthesis	3380.0	3497.0	Metabolism; Biosynthesis of Other Secondary Metabolites; Novobiocin biosynthesis
+Nucleotide excision repair	7636.0	7841.0	Genetic Information Processing; Replication and Repair; Nucleotide excision repair
+Nucleotide metabolism	826.0	894.0	Unclassified; Metabolism; Nucleotide metabolism
+Olfactory transduction	0.0	0.0	Organismal Systems; Sensory System; Olfactory transduction
+One carbon pool by folate	12342.0	12531.0	Metabolism; Metabolism of Cofactors and Vitamins; One carbon pool by folate
+Oocyte meiosis	0.0	0.0	Cellular Processes; Cell Growth and Death; Oocyte meiosis
+Other glycan degradation	2163.0	2201.0	Metabolism; Glycan Biosynthesis and Metabolism; Other glycan degradation
+Other ion-coupled transporters	23711.0	25202.0	Unclassified; Cellular Processes and Signaling; Other ion-coupled transporters
+Other transporters	5712.0	5933.0	Unclassified; Cellular Processes and Signaling; Other transporters
+Other types of O-glycan biosynthesis	0.0	0.0	Metabolism; Glycan Biosynthesis and Metabolism; Other types of O-glycan biosynthesis
+Others	23536.0	24012.0	Unclassified; Metabolism; Others
+Oxidative phosphorylation	35702.0	37807.0	Metabolism; Energy Metabolism; Oxidative phosphorylation
+PPAR signaling pathway	5039.0	5422.0	Organismal Systems; Endocrine System; PPAR signaling pathway
+Pancreatic cancer	0.0	0.0	Human Diseases; Cancers; Pancreatic cancer
+Pancreatic secretion	0.0	0.0	Organismal Systems; Digestive System; Pancreatic secretion
+Pantothenate and CoA biosynthesis	13329.0	13939.0	Metabolism; Metabolism of Cofactors and Vitamins; Pantothenate and CoA biosynthesis
+Parkinson's disease	1869.0	1999.0	Human Diseases; Neurodegenerative Diseases; Parkinson's disease
+Pathogenic Escherichia coli infection	0.0	0.0	Human Diseases; Infectious Diseases; Pathogenic Escherichia coli infection
+Pathways in cancer	1699.0	1815.0	Human Diseases; Cancers; Pathways in cancer
+Penicillin and cephalosporin biosynthesis	1583.0	1805.0	Metabolism; Biosynthesis of Other Secondary Metabolites; Penicillin and cephalosporin biosynthesis
+Pentose and glucuronate interconversions	8919.0	9623.0	Metabolism; Carbohydrate Metabolism; Pentose and glucuronate interconversions
+Pentose phosphate pathway	15779.0	16706.0	Metabolism; Carbohydrate Metabolism; Pentose phosphate pathway
+Peptidases	36434.0	38002.0	Metabolism; Enzyme Families; Peptidases
+Peptidoglycan biosynthesis	15023.0	15184.0	Metabolism; Glycan Biosynthesis and Metabolism; Peptidoglycan biosynthesis
+Peroxisome	7105.0	7302.0	Cellular Processes; Transport and Catabolism; Peroxisome
+Pertussis	1085.0	1089.0	Human Diseases; Infectious Diseases; Pertussis
+Phagosome	0.0	0.0	Cellular Processes; Transport and Catabolism; Phagosome
+Phenylalanine metabolism	9799.0	10383.0	Metabolism; Amino Acid Metabolism; Phenylalanine metabolism
+Phenylalanine, tyrosine and tryptophan biosynthesis	17106.0	17978.0	Metabolism; Amino Acid Metabolism; Phenylalanine, tyrosine and tryptophan biosynthesis
+Phenylpropanoid biosynthesis	2173.0	2289.0	Metabolism; Biosynthesis of Other Secondary Metabolites; Phenylpropanoid biosynthesis
+Phosphatidylinositol signaling system	2561.0	2656.0	Environmental Information Processing; Signal Transduction; Phosphatidylinositol signaling system
+Phosphonate and phosphinate metabolism	1370.0	1492.0	Metabolism; Metabolism of Other Amino Acids; Phosphonate and phosphinate metabolism
+Phosphotransferase system (PTS)	1963.0	2282.0	Environmental Information Processing; Membrane Transport; Phosphotransferase system (PTS)
+Photosynthesis	6527.0	6731.0	Metabolism; Energy Metabolism; Photosynthesis
+Photosynthesis - antenna proteins	0.0	0.0	Metabolism; Energy Metabolism; Photosynthesis - antenna proteins
+Photosynthesis proteins	7641.0	7642.0	Metabolism; Energy Metabolism; Photosynthesis proteins
+Phototransduction	0.0	0.0	Organismal Systems; Sensory System; Phototransduction
+Phototransduction - fly	0.0	0.0	Organismal Systems; Sensory System; Phototransduction - fly
+Plant-pathogen interaction	3554.0	3824.0	Organismal Systems; Environmental Adaptation; Plant-pathogen interaction
+Polycyclic aromatic hydrocarbon degradation	3585.0	3686.0	Metabolism; Xenobiotics Biodegradation and Metabolism; Polycyclic aromatic hydrocarbon degradation
+Polyketide sugar unit biosynthesis	3931.0	4238.0	Metabolism; Metabolism of Terpenoids and Polyketides; Polyketide sugar unit biosynthesis
+Pores ion channels	14474.0	14770.0	Unclassified; Cellular Processes and Signaling; Pores ion channels
+Porphyrin and chlorophyll metabolism	24123.0	23497.0	Metabolism; Metabolism of Cofactors and Vitamins; Porphyrin and chlorophyll metabolism
+Prenyltransferases	7653.0	7759.0	Metabolism; Metabolism of Terpenoids and Polyketides; Prenyltransferases
+Primary bile acid biosynthesis	457.0	476.0	Metabolism; Lipid Metabolism; Primary bile acid biosynthesis
+Primary immunodeficiency	969.0	992.0	Human Diseases; Immune System Diseases; Primary immunodeficiency
+Prion diseases	237.0	323.0	Human Diseases; Neurodegenerative Diseases; Prion diseases
+Progesterone-mediated oocyte maturation	618.0	656.0	Organismal Systems; Endocrine System; Progesterone-mediated oocyte maturation
+Propanoate metabolism	25507.0	26510.0	Metabolism; Carbohydrate Metabolism; Propanoate metabolism
+Prostate cancer	618.0	656.0	Human Diseases; Cancers; Prostate cancer
+Proteasome	631.0	684.0	Genetic Information Processing; Folding, Sorting and Degradation; Proteasome
+Protein digestion and absorption	447.0	484.0	Organismal Systems; Digestive System; Protein digestion and absorption
+Protein export	11952.0	12446.0	Genetic Information Processing; Folding, Sorting and Degradation; Protein export
+Protein folding and associated processing	20195.0	20182.0	Unclassified; Genetic Information Processing; Protein folding and associated processing
+Protein kinases	10967.0	11001.0	Metabolism; Enzyme Families; Protein kinases
+Protein processing in endoplasmic reticulum	1811.0	1766.0	Genetic Information Processing; Folding, Sorting and Degradation; Protein processing in endoplasmic reticulum
+Proximal tubule bicarbonate reclamation	927.0	889.0	Organismal Systems; Excretory System; Proximal tubule bicarbonate reclamation
+Purine metabolism	46362.0	48024.0	Metabolism; Nucleotide Metabolism; Purine metabolism
+Pyrimidine metabolism	32210.0	33036.0	Metabolism; Nucleotide Metabolism; Pyrimidine metabolism
+Pyruvate metabolism	27598.0	28463.0	Metabolism; Carbohydrate Metabolism; Pyruvate metabolism
+RIG-I-like receptor signaling pathway	54.0	68.0	Organismal Systems; Immune System; RIG-I-like receptor signaling pathway
+RNA degradation	10060.0	10356.0	Genetic Information Processing; Folding, Sorting and Degradation; RNA degradation
+RNA polymerase	2985.0	3105.0	Genetic Information Processing; Transcription; RNA polymerase
+RNA transport	1863.0	1878.0	Genetic Information Processing; Translation; RNA transport
+Regulation of actin cytoskeleton	0.0	0.0	Cellular Processes; Cell Motility; Regulation of actin cytoskeleton
+Renal cell carcinoma	605.0	662.0	Human Diseases; Cancers; Renal cell carcinoma
+Renin-angiotensin system	204.0	213.0	Organismal Systems; Endocrine System; Renin-angiotensin system
+Replication, recombination and repair proteins	17560.0	18088.0	Unclassified; Genetic Information Processing; Replication, recombination and repair proteins
+Restriction enzyme	2414.0	2403.0	Unclassified; Genetic Information Processing; Restriction enzyme
+Retinol metabolism	1919.0	2131.0	Metabolism; Metabolism of Cofactors and Vitamins; Retinol metabolism
+Rheumatoid arthritis	0.0	0.0	Human Diseases; Immune System Diseases; Rheumatoid arthritis
+Riboflavin metabolism	6135.0	6331.0	Metabolism; Metabolism of Cofactors and Vitamins; Riboflavin metabolism
+Ribosome	41905.0	43024.0	Genetic Information Processing; Translation; Ribosome
+Ribosome Biogenesis	27563.0	28322.0	Genetic Information Processing; Translation; Ribosome Biogenesis
+Ribosome biogenesis in eukaryotes	1203.0	1256.0	Genetic Information Processing; Translation; Ribosome biogenesis in eukaryotes
+Salivary secretion	0.0	0.0	Organismal Systems; Digestive System; Salivary secretion
+Secondary bile acid biosynthesis	143.0	166.0	Metabolism; Lipid Metabolism; Secondary bile acid biosynthesis
+Secretion system	46816.0	49418.0	Environmental Information Processing; Membrane Transport; Secretion system
+Selenocompound metabolism	9264.0	9722.0	Metabolism; Metabolism of Other Amino Acids; Selenocompound metabolism
+Sesquiterpenoid biosynthesis	0.0	0.0	Metabolism; Metabolism of Terpenoids and Polyketides; Sesquiterpenoid biosynthesis
+Shigellosis	0.0	0.0	Human Diseases; Infectious Diseases; Shigellosis
+Signal transduction mechanisms	11824.0	12446.0	Unclassified; Cellular Processes and Signaling; Signal transduction mechanisms
+Small cell lung cancer	470.0	485.0	Human Diseases; Cancers; Small cell lung cancer
+Sphingolipid metabolism	2385.0	2611.0	Metabolism; Lipid Metabolism; Sphingolipid metabolism
+Spliceosome	3.0	0.0	Genetic Information Processing; Transcription; Spliceosome
+Sporulation	865.0	665.0	Unclassified; Cellular Processes and Signaling; Sporulation
+Staphylococcus aureus infection	134.0	142.0	Human Diseases; Infectious Diseases; Staphylococcus aureus infection
+Starch and sucrose metabolism	12350.0	12962.0	Metabolism; Carbohydrate Metabolism; Starch and sucrose metabolism
+Steroid biosynthesis	356.0	422.0	Metabolism; Lipid Metabolism; Steroid biosynthesis
+Steroid hormone biosynthesis	1082.0	1179.0	Metabolism; Lipid Metabolism; Steroid hormone biosynthesis
+Stilbenoid, diarylheptanoid and gingerol biosynthesis	610.0	567.0	Metabolism; Biosynthesis of Other Secondary Metabolites; Stilbenoid, diarylheptanoid and gingerol biosynthesis
+Streptomycin biosynthesis	6791.0	7298.0	Metabolism; Biosynthesis of Other Secondary Metabolites; Streptomycin biosynthesis
+Styrene degradation	2685.0	2718.0	Metabolism; Xenobiotics Biodegradation and Metabolism; Styrene degradation
+Sulfur metabolism	8000.0	8415.0	Metabolism; Energy Metabolism; Sulfur metabolism
+Sulfur relay system	8053.0	8152.0	Genetic Information Processing; Folding, Sorting and Degradation; Sulfur relay system
+Synthesis and degradation of ketone bodies	4479.0	4720.0	Metabolism; Lipid Metabolism; Synthesis and degradation of ketone bodies
+Systemic lupus erythematosus	102.0	92.0	Human Diseases; Immune System Diseases; Systemic lupus erythematosus
+TGF-beta signaling pathway	0.0	0.0	Environmental Information Processing; Signal Transduction; TGF-beta signaling pathway
+Taurine and hypotaurine metabolism	2974.0	3235.0	Metabolism; Metabolism of Other Amino Acids; Taurine and hypotaurine metabolism
+Terpenoid backbone biosynthesis	12093.0	12248.0	Metabolism; Metabolism of Terpenoids and Polyketides; Terpenoid backbone biosynthesis
+Tetracycline biosynthesis	3832.0	4013.0	Metabolism; Metabolism of Terpenoids and Polyketides; Tetracycline biosynthesis
+Thiamine metabolism	8546.0	8464.0	Metabolism; Metabolism of Cofactors and Vitamins; Thiamine metabolism
+Tight junction	0.0	0.0	Cellular Processes; Cell Communication; Tight junction
+Toluene degradation	5165.0	5320.0	Metabolism; Xenobiotics Biodegradation and Metabolism; Toluene degradation
+Toxoplasmosis	470.0	485.0	Human Diseases; Infectious Diseases; Toxoplasmosis
+Transcription factors	31935.0	33795.0	Genetic Information Processing; Transcription; Transcription factors
+Transcription machinery	22070.0	22820.0	Genetic Information Processing; Transcription; Transcription machinery
+Transcription related proteins	137.0	120.0	Unclassified; Genetic Information Processing; Transcription related proteins
+Translation factors	10059.0	10349.0	Genetic Information Processing; Translation; Translation factors
+Translation proteins	18801.0	19352.0	Unclassified; Genetic Information Processing; Translation proteins
+Transporters	124108.0	131584.0	Environmental Information Processing; Membrane Transport; Transporters
+Tropane, piperidine and pyridine alkaloid biosynthesis	3047.0	3232.0	Metabolism; Biosynthesis of Other Secondary Metabolites; Tropane, piperidine and pyridine alkaloid biosynthesis
+Tryptophan metabolism	15939.0	16841.0	Metabolism; Amino Acid Metabolism; Tryptophan metabolism
+Tuberculosis	3697.0	3951.0	Human Diseases; Infectious Diseases; Tuberculosis
+Two-component system	54816.0	56975.0	Environmental Information Processing; Signal Transduction; Two-component system
+Type I diabetes mellitus	1072.0	1132.0	Human Diseases; Metabolic Diseases; Type I diabetes mellitus
+Type II diabetes mellitus	877.0	895.0	Human Diseases; Metabolic Diseases; Type II diabetes mellitus
+Tyrosine metabolism	11140.0	11878.0	Metabolism; Amino Acid Metabolism; Tyrosine metabolism
+Ubiquinone and other terpenoid-quinone biosynthesis	8370.0	8673.0	Metabolism; Metabolism of Cofactors and Vitamins; Ubiquinone and other terpenoid-quinone biosynthesis
+Ubiquitin system	231.0	287.0	Genetic Information Processing; Folding, Sorting and Degradation; Ubiquitin system
+VEGF signaling pathway	0.0	0.0	Environmental Information Processing; Signal Transduction; VEGF signaling pathway
+Valine, leucine and isoleucine biosynthesis	16618.0	17529.0	Metabolism; Amino Acid Metabolism; Valine, leucine and isoleucine biosynthesis
+Valine, leucine and isoleucine degradation	24070.0	25611.0	Metabolism; Amino Acid Metabolism; Valine, leucine and isoleucine degradation
+Various types of N-glycan biosynthesis	0.0	4.0	Metabolism; Glycan Biosynthesis and Metabolism; Various types of N-glycan biosynthesis
+Vascular smooth muscle contraction	0.0	0.0	Organismal Systems; Circulatory System; Vascular smooth muscle contraction
+Vasopressin-regulated water reabsorption	10.0	17.0	Organismal Systems; Excretory System; Vasopressin-regulated water reabsorption
+Vibrio cholerae infection	47.0	69.0	Human Diseases; Infectious Diseases; Vibrio cholerae infection
+Vibrio cholerae pathogenic cycle	2083.0	2079.0	Human Diseases; Infectious Diseases; Vibrio cholerae pathogenic cycle
+Viral myocarditis	470.0	485.0	Human Diseases; Cardiovascular Diseases; Viral myocarditis
+Vitamin B6 metabolism	4147.0	4377.0	Metabolism; Metabolism of Cofactors and Vitamins; Vitamin B6 metabolism
+Wnt signaling pathway	6.0	12.0	Environmental Information Processing; Signal Transduction; Wnt signaling pathway
+Xylene degradation	1136.0	1024.0	Metabolism; Xenobiotics Biodegradation and Metabolism; Xylene degradation
+Zeatin biosynthesis	863.0	885.0	Metabolism; Metabolism of Terpenoids and Polyketides; Zeatin biosynthesis
+alpha-Linolenic acid metabolism	792.0	881.0	Metabolism; Lipid Metabolism; alpha-Linolenic acid metabolism
+beta-Alanine metabolism	12077.0	13041.0	Metabolism; Metabolism of Other Amino Acids; beta-Alanine metabolism
+beta-Lactam resistance	928.0	1062.0	Metabolism; Biosynthesis of Other Secondary Metabolites; beta-Lactam resistance
+mRNA surveillance pathway	18.0	13.0	Genetic Information Processing; Translation; mRNA surveillance pathway
+mTOR signaling pathway	0.0	0.0	Environmental Information Processing; Signal Transduction; mTOR signaling pathway
+p53 signaling pathway	549.0	545.0	Cellular Processes; Cell Growth and Death; p53 signaling pathway
