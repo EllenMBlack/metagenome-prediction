@@ -1,1 +1,2 @@
-# metagenome-prediction takes QIIME output biom table and adds metabolic function for corresponding microbe in the GreenGenes database
+# metagenome-prediction with Picrust inputs a biom table (i.e. QIIME output) and adds metabolic function for corresponding microbes in the GreenGenes database
+
